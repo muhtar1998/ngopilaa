@@ -1,5 +1,5 @@
 {
-  "name": "ngopilaa",
+  "name": "@muhtar1998/ngopilaa",
   "version": "1.0.0",
   "description": "just stress test",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ngopilaa"
+    "url": "@muhtar1998/ngopilaa"
   },
   "author": "",
   "license": "ISC"
