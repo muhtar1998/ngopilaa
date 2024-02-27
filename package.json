@@ -1,0 +1,18 @@
+{
+  "name": "ngopilaa",
+  "version": "1.0.0",
+  "description": "just stress test",
+  "main": "index.js",
+  "publishConfig": {
+   "registry": "https://npm.pkg.github.com/@muhtar1998"
+   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ngopilaa"
+  },
+  "author": "",
+  "license": "ISC"
+}
